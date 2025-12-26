@@ -1,4 +1,4 @@
-# All unpinned blobs are extracted from S9160ZHS6DYF1
+# All unpinned blobs are extracted from S916BXXS8DYI3
 
 # ACDB
 vendor/etc/audconf/OPEN/acdb_cal.acdb
@@ -298,7 +298,7 @@ vendor/firmware/a740_zap.mdt:odm/firmware/a740_zap.mdt|06a6e8b90261d0e353ebd30e5
 # NFC
 vendor/etc/nfc/libnfc-nxp_RF.conf
 
-# RIL - from S916BXXS8DYF2
+# RIL - from dm2qxxx-user 15 AP3A.240905.015.A2 S916BXXS8DYI3 release-keys
 vendor/etc/init/init.vendor.onebinary.rc|b3fab964774039b1f2f6eabf821556919b26369f
 
 # RIL
