@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
     ApertureResDm2q \
     FrameworksResDm2q \
     LineageResDm2q \
+    SettingsProviderResDm2q \
     SystemUIResDm2q \
     WifiResTargetDm2q
 
