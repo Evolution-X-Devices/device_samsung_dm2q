@@ -1,4 +1,4 @@
-# All unpinned blobs are extracted from S916BXXS8DYI3
+# All unpinned blobs are extracted from S916BXXS8EZA1
 
 # ACDB
 vendor/etc/audconf/OPEN/acdb_cal.acdb
@@ -332,7 +332,7 @@ vendor/lib64/libqc2audio_hwaudiocodec.so
 # NFC
 vendor/etc/nfc/libnfc-nxp_RF.conf:vendor/libnfc-nxp_RF.conf
 
-# RIL - from dm2qxxx-user 15 AP3A.240905.015.A2 S916BXXS8DYI3 release-keys
+# RIL - from dm2qxxx-user 16 BP2A.250605.031.A3 S916BXXS8EZA1 release-keys
 vendor/etc/init/init.vendor.onebinary.rc|b3fab964774039b1f2f6eabf821556919b26369f
 
 # RIL
